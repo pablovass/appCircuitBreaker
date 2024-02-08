@@ -71,5 +71,3 @@ Contributions are welcome. If you wish to improve this example or add new featur
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to adjust the README according to the specific needs of your project.
